@@ -35,8 +35,6 @@ This ensures the LLM produces appropriate outputs without deviation.
 - **Sequential Info Gathering**: Implemented a state machine to collect info step-by-step.
 - **Data Privacy**: All data is stored in memory only; no persistent storage implemented for compliance.
 
-## Demo
-[Link to demo video or Loom recording] (Replace with actual link if deployed)
 
 ## Optional Enhancements
 - Sentiment analysis could be added using NLP libraries.
